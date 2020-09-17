@@ -114,3 +114,8 @@ wiki.squid-cache.org
 .entrust.net
 .digicert.com
 .verisign.net
+.twimg.com
+.getpocket.com
+.mozilla.net
+.mozilla.com
+.firefox.com
