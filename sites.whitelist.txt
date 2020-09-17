@@ -109,3 +109,8 @@ wiki.squid-cache.org
 .stackoverflow.com
 .stackexchange.com
 .sstatic.net
+.twitter.com
+.mzstatic.com
+.entrust.net
+.digicert.com
+.verisign.net
