@@ -165,3 +165,12 @@ wiki.squid-cache.org
 .chesscomfiles.com
 .helpscout.net
 .wilsonacademy.com
+.akadns.net
+.akamaiedge.net
+.zscaler.com
+.zscalerone.net
+.gmail.com
+.fastly.net
+.appcenter.ms
+.edgekey.net
+.att.net
